@@ -1,0 +1,49 @@
+=== Step 1: Authenticating via API and navigating to Salesforce ===
+Authenticating via Salesforce SOAP API...
+✓ Salesforce API authentication successful
+  Instance URL: https://orgfarm-72e25549ce-dev-ed.develop.my.salesforce.com
+  User ID: 005gK000009V5PiQAK
+Navigating to Salesforce using frontdoor URL...
+⚠ Lightning components may still be loading, continuing...
+✓ Successfully logged in via API to: https://orgfarm-72e25549ce-dev-ed.develop.lightning.force.com/lightning/page/home
+✓ Successfully authenticated and navigated to Salesforce home
+=== Step 2: Navigating to Opportunities page ===
+Navigating to Opportunities page...
+✓ Navigated to Opportunities page
+Verifying Opportunities page is loaded...
+✓ Opportunities page loaded successfully
+✓ Successfully navigated to Opportunities page
+=== Step 3: Opening New Opportunity form ===
+Clicking "New" button to create opportunity...
+✓ New Opportunity form opened
+Verifying New Opportunity form is displayed...
+✓ New Opportunity form is displayed
+✓ New Opportunity form opened successfully
+=== Step 4: Filling Opportunity Name ===
+Filling Opportunity Name: "Test_Opportunity_1761295909161"...
+✓ Opportunity Name filled
+✓ Opportunity Name filled with: "Test_Opportunity_1761295909161"
+=== Step 5: Setting Close Date ===
+Filling Close Date: "10/24/2025"...
+✓ Close Date filled
+✓ Close Date set to: "10/24/2025"
+=== Step 6: Selecting Stage ===
+Selecting Stage: "Qualification"...
+✓ Stage selected
+✓ Stage selected: "Qualification"
+=== Step 7: Capturing screenshot of filled form ===
+✓ Screenshot captured: test-results/screenshots/07-opportunity-form-filled.png
+=== Step 8: Saving the opportunity ===
+Clicking Save button...
+✓ Opportunity saved successfully
+✓ Save button clicked
+=== Step 9: Verifying opportunity creation ===
+Verifying opportunity "Test_Opportunity_1761295909161" was created...
+✓ Opportunity "Test_Opportunity_1761295909161" created successfully
+Verifying opportunity stage is "Qualification"...
+✓ Opportunity stage verified
+✓ Opportunity "Test_Opportunity_1761295909161" created successfully
+=== Step 10: Capturing screenshot of success page ===
+✓ Screenshot captured: test-results/screenshots/10-opportunity-created-success.png
+
+🎉 Test completed successfully! Opportunity creation flow validated.
