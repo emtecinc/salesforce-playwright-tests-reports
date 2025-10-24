@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","24632","should create opportunity with all optional fields","chromium","Fri Oct 17 11:16:46 UTC 2025","passed","Fri Oct 17 11:17:10 UTC 2025","Salesforce - Add Opportunity","","",""
-"","34169","[API LOGIN] should verify User Details flow execution with API authentication","chromium","Fri Oct 17 11:17:34 UTC 2025","passed","Fri Oct 17 11:18:08 UTC 2025","Salesforce User Details Flow","","",""
-"","34509","Verify User Details Flow Execution in Salesforce","chromium","Fri Oct 17 11:18:08 UTC 2025","passed","Fri Oct 17 11:18:42 UTC 2025","Salesforce User Details Flow","","",""
-"","23206","should handle cancel operation correctly","chromium","Fri Oct 17 11:17:10 UTC 2025","passed","Fri Oct 17 11:17:34 UTC 2025","Salesforce - Add Opportunity","","",""
-"","25876","should add a new opportunity with required fields","chromium","Fri Oct 17 11:16:18 UTC 2025","passed","Fri Oct 17 11:16:44 UTC 2025","Salesforce - Add Opportunity","","",""
