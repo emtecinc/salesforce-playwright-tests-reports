@@ -1,0 +1,44 @@
+🚀 Step 1: Launching browser and navigating to https://login.salesforce.com/
+🔐 Step 2: Logging in with credentials via API...
+   Username: rupesh.patil678@agentforce.com
+   Password: ********
+Authenticating via Salesforce SOAP API...
+✓ Salesforce API authentication successful
+  Instance URL: https://orgfarm-72e25549ce-dev-ed.develop.my.salesforce.com
+  User ID: 005gK000009V5PiQAK
+Navigating to Salesforce using frontdoor URL...
+⚠ Lightning components may still be loading, continuing...
+✓ Successfully logged in via API to: https://orgfarm-72e25549ce-dev-ed.develop.lightning.force.com/lightning/o/FlowRecord/home
+✓ Authentication verified - user is logged in
+✅ Step 1-2 Complete: Successfully logged in via API and navigated to Salesforce
+📂 Step 3: From Salesforce home page, navigate to the Flows section
+   Current URL: https://orgfarm-72e25549ce-dev-ed.develop.lightning.force.com/lightning/o/FlowRecord/home
+✅ Step 3 Complete: Flows section loaded successfully
+🔍 Step 4: Locate and click on the "User Details" flow
+   ✓ "User Details" flow found
+✅ Step 4 Complete: "User Details" flow opened
+▶️ Step 5: Click on the "Open Flow" button
+✅ Step 5 Complete: Flow Builder opened successfully
+🚀 Step 6: Click on the "Run" button to start the flow
+✅ Step 6 Complete: Flow execution started, form screen displayed
+📝 Step 7: On the form screen, enter the following details:
+   • First Name: Rupesh
+   • Last Name: Patil
+   • Phone: 1234567890
+   • Email: test@example.com
+   • Department: Department 1
+   • List: List 2
+✅ Step 7 Complete: All form fields filled successfully
+📸 Step 8: Capture a screenshot of the filled form
+✅ Step 8 Complete: Screenshot captured at test-results/screenshots/user-details-flow-form-filled.png
+✔️ Step 9: Click on the "Submit" button
+✅ Step 9 Complete: Form submitted successfully
+✅ Step 10: Verify that the flow submission is successful
+✅ Step 10 Complete: Flow submission verified successfully
+
+🎉 ========================================
+🎉 TEST COMPLETED SUCCESSFULLY!
+🎉 All steps executed without errors
+🎉 ========================================
+🧹 Cleaning up browser tabs...
+✓ Cleanup completed
